@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@media (max-width: 1280px) {  /* example for 1280px */
+  .max-\[80\%\]\:w-\[80\%\] {
+    width: 80%;
+  }
+
+}
+.it{
+  cursor: pointer;
+}
