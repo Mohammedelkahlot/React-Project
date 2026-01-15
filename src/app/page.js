@@ -10,6 +10,9 @@ import  Recent from './componants/Recent';
 import Subscribe from './componants/Subscribe';
 import Logos from './componants/Logods';
 
+import AboutPage from './componants/AboutPage';
+import ServisePage from './componants/ServisePage';
+import ServicesSingle from './componants/ServicesSingle'
 export default function Home() {
   return (
     <>
@@ -27,6 +30,9 @@ export default function Home() {
       <Recent/>
       <Subscribe/>
       {/* <Footer/> */}
+      <AboutPage/>
+      <ServisePage/>
+      <ServicesSingle/>
     </div>
     </>
   );

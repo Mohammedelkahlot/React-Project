@@ -36,7 +36,7 @@ const About = () => {
                 </div>
 
                 {/* RIGHT CONTENT */}
-                <div className=' '>
+                <div className=' max-w-[70%] m-auto '>
 
                   <span className="inline-flex items-center text-sm font-medium text-gray-500 mb-3">
                     <span className="w-2 h-2 bg-emerald-400 rounded-full mr-2"></span>

@@ -18,7 +18,7 @@ const ChooseMe = () => {
                       <div>
                         <div className='grid lg:grid-cols-2 sm:grid-cols-2 gap-5 lg:mt-8 sm:mt-0 py-4'>
 
-                        <div className='flex flex-col bg-[#2E2F34] justify-between gap-10 sm:mt-3 lg:mt-8'>
+                    <div className='flex flex-col bg-[#2E2F34] justify-between gap-10 sm:mt-3 lg:mt-8'>
                         <div className='flex items-center justify-around py-8 px-5'>
                             <img src='/images/Chart.png' alt='chart' className='w-15'/>
                             <div className='ml-4 '>
